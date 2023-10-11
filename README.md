@@ -4,22 +4,24 @@
 - 💞️ I’m looking to collaborate on projects involving machine learning, and AI, to develop skills related to modern domains.
 - 📫 How to reach me -> philsobrepena@gmail.com
 
-Heres some technical info about me:
+**Here's some technical info about me:**
 
 Languages:
-Python, JavaScript (ES6+), SQL, HTML/CSS
+_Python, JavaScript (ES6+), SQL, HTML/CSS_
 
 Front-End:
-React, Redux Toolkit, React Hooks, React Bootstrap, Chart.js, WebSockets, DOM Manipulation
+_React, Redux Toolkit, React Hooks, React Bootstrap, Chart.js, WebSockets, DOM Manipulation_
 
 Back-End:
-Django REST Framework, FastAPI, Relational (PostgreSQL, MySQL), NoSQL (MongoDB), Docker, Microservices, REST APIs, Test-Driven Development
+_Django REST Framework, FastAPI, Relational (PostgreSQL, MySQL), NoSQL (MongoDB), Docker, Microservices, REST APIs, Test-Driven Development_
 
 Architecture:
-Object-Oriented Programming, Domain-Driven Design, Event Sourcing, MVC Pattern
+_Object-Oriented Programming, Domain-Driven Design, Event Sourcing, MVC Pattern_
 
 Tools:
-Git, PostgreSQL, MongoDB, Visual Studio Code, Postman, Docker, RabbitMQ
+_Git, PostgreSQL, MongoDB, Visual Studio Code, Postman, Docker, RabbitMQ_
+
+**Here's some non-technical info about me:**
 
 When I'm not coding, you can find me 
 🎾 playing tennis, 
@@ -28,8 +30,8 @@ When I'm not coding, you can find me
 or 
 🐕 spending time outdoors with my dog
 
-Here is my up to date resume:
+**Here's my up to date resume:**
 
 https://www.notion.so/Resume-c727afba18494ec597431fd0438db1bd
 
-Thanks for the visit!
+_**Thanks for the visit!**_
