@@ -4,8 +4,9 @@
 
 ✨ I love thinking of creative project ideas, and giving them life through software.
 
-- 💞️ I’m looking to collaborate on projects involving machine learning, and AI, to develop skills related to modern domains.
-- 📫 How to reach me -> philsobrepena@gmail.com
+💞️ I’m looking to collaborate on projects involving machine learning, and AI, to develop skills related to modern domains.
+
+📫 How to reach me -> philsobrepena@gmail.com
 
 **Here's some technical info about me:**
 
