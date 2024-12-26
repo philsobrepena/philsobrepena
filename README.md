@@ -1,4 +1,4 @@
-👋 Hi, I’m Phil - a web developer based out of San Francisco.
+👋 Hi, I’m Phil - a software engineer based out of San Francisco. I am currently working as a Prototyper | Creative Coder for Meta, on Reality Labs products.
 
 🕹 I’m a full-stack engineer with a passion for continuous learning and growth.
 
@@ -32,7 +32,7 @@ ________________________________________________________________________________
 
 When I'm not coding, you can find me 
 🎾 playing tennis, 
-🪨 rock climbing, 
+🥋 training brazilian jiu jitsu, 
 🎸  making music, 
 or 
 🐕 spending time outdoors with my dog
